@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-      "symfony/console": "2.6.*",
+      "symfony/console": "^2.6.0",
       "symfony/process": "*"
     },
     "autoload": {
